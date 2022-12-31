@@ -1,4 +1,4 @@
-// Environmenta Config
+// Environmenta Config 
 const env = require("dotenv"); env.config();
 
 // Core Module Import
