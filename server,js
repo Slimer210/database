@@ -1,5 +1,4 @@
-// Environmenta Config 
-const env = require("dotenv"); env.config();
+require("dotenv"); env.config();
 
 // Core Module Import
 const logger = require('npmlog');
